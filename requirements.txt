@@ -4,6 +4,7 @@ astroid==3.2.4
 blinker==1.8.2
 certifi==2024.7.4
 charset-normalizer==3.4.1
+config==0.5.1
 click==8.1.7
 dill==0.3.8
 distlib==0.3.8
@@ -55,3 +56,4 @@ virtualenv==20.26.3
 Werkzeug==3.0.3
 WTForms==3.1.2
 zipp==3.19.2
+
